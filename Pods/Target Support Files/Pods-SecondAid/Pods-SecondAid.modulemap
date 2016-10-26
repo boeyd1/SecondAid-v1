@@ -1,0 +1,6 @@
+framework module Pods_SecondAid {
+  umbrella header "Pods-SecondAid-umbrella.h"
+
+  export *
+  module * { export * }
+}

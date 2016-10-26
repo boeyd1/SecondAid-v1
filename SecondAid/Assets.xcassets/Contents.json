@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+}
+>>>>>>> parent of 4c0630c... changed contents.json
+=======
+
+  let api = new ParseServer({
+  ...,
+  liveQuery: {
+    classNames: [‘Alerts’]
+  }
+  })
+
+
+}
+>>>>>>> parent of a01ba04... updated json
+=======
+}
+>>>>>>> parent of 4c0630c... changed contents.json
